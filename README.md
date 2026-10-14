@@ -1,2 +1,2 @@
 # KRETOS
-Gallery made by KRETOS tests
+Gallery for external viewing of KRETOS. 
